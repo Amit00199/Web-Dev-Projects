@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import './App.css'
+import Navbar from './Components/Navbar';
 import Header from './Components/Header';
 import EduContent from './Components/EduContent';
 import LearnModules from './Components/LearnModules';
@@ -14,6 +15,7 @@ function App() {
 
   return (
     <>
+      <Navbar />
       <Header />
       <EduContent />
       <LearnModules />
