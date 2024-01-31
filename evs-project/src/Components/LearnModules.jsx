@@ -3,6 +3,8 @@
 import React from 'react';
 import './LearnModules.css'; // Import the styles
 
+// Use iframes for nodules
+
 const LearnModules = () => {
   return (
     <section id="interactive-learning" className="interactive-learning-modules">
