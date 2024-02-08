@@ -12,7 +12,7 @@ Explore a diverse range of web development projects, including:
 - Web Development Portfolio
 - and more!
 
-Feel free to explore each project folder to discover the code, live demos (if available), and any additional resources provided.
+Feel free to explore each project folder to discover the code and any additional resources provided.
 
 ## About Me
 I'm a web developer and designer passionate about crafting beautiful and functional web experiences. This repository reflects my dedication to mastering the art of web development and my commitment to creating engaging online projects.
